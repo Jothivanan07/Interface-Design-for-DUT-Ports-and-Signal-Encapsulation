@@ -128,7 +128,8 @@ endmodule
 ```
 ### Simulation Output
 
---- PAste the output here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43f40080-1111-4025-bb0a-2d3d09501e66" />
+
 
 ### Result
 
